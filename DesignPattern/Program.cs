@@ -2,3 +2,4 @@
 using DesignPattern.Patterns;
 
 Console.WriteLine("Hello, World!");
+StrategyWithPattern strategyWithPattern = new StrategyWithPattern(1000);

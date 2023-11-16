@@ -7,4 +7,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Patterns\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Patterns\" />
+  </ItemGroup>
 </Project>
